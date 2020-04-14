@@ -1,0 +1,26 @@
+<scheme name="_@user_Default" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2019-09-04T09:32:13</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2018.2.7.0.0</property>
+    <property name="modified">2019-09-12T09:44:52</property>
+    <property name="originalScheme">Default</property>
+  </metaInfo>
+  <attributes>
+    <option name="INHERITED_METHOD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="db009a" />
+      </value>
+    </option>
+    <option name="METHOD_CALL_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="9b006d" />
+      </value>
+    </option>
+    <option name="PARAMETER_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="233ad" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
