@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server" />
+      <item value="The driver has not received any packets from the server" />
       <item value="My SQL Non Transient Connection Exception" />
       <item value="minard norm type" />
       <item value="荥" />
@@ -49,13 +51,11 @@
       <item value="Data" />
       <item value="sink Database Name" />
       <item value="Diagroam" />
-      <item value="origin" />
-      <item value="upload Url" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="378" />
-        <entry key="ENGLISH" value="379" />
+        <entry key="CHINESE" value="380" />
+        <entry key="ENGLISH" value="381" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
