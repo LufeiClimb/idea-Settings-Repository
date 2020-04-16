@@ -57,6 +57,14 @@
           <Count>32</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'MyAppletApplication'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'MyAppletApplication'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'NameBabyApplication'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -94,6 +102,14 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'UserServiceImpl'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'ZuiXinJingZhi'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'ZuiXinJingZhi'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -286,7 +302,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'ZuiXinJingZhi.main()'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Source Editor">
