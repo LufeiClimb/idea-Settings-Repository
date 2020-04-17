@@ -110,7 +110,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'ZuiXinJingZhi'</Description>
-          <Count>33</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Desktop Directory">
@@ -310,7 +310,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'ZuiXinJingZhi'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ZuiXinJingZhi.main()'">
