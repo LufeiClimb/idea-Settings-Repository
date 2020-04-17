@@ -110,7 +110,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'ZuiXinJingZhi'</Description>
-          <Count>3</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Desktop Directory">
@@ -305,6 +305,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'ZuiXinJingZhi'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'ZuiXinJingZhi'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'ZuiXinJingZhi.main()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -366,7 +374,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'ZuiXinJingZhi'</Description>
-          <Count>2</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
