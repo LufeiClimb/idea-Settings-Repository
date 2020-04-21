@@ -57,6 +57,14 @@
           <Count>32</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'GunsApplication'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'GunsApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'MyAppletApplication'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
