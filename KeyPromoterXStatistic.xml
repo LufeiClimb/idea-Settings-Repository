@@ -270,7 +270,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'FormatNumber.main()'</Description>
-          <Count>4</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'LambdaExpressi....main()'">
