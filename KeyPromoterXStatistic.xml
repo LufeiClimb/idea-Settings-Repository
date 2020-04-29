@@ -217,6 +217,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Recompile 'FormatNumber.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile 'FormatNumber.java'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Refresh">
         <Item>
           <IdeaActionID>Vcs.Log.Refresh</IdeaActionID>
@@ -270,7 +278,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'FormatNumber.main()'</Description>
-          <Count>14</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'LambdaExpressi....main()'">
