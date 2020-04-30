@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Input Stream Reader" />
       <item value="location" />
       <item value="position" />
       <item value="district" />
@@ -50,12 +51,11 @@
       <item value="graph" />
       <item value="chart" />
       <item value="Diagram" />
-      <item value="daemon" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="391" />
-        <entry key="ENGLISH" value="392" />
+        <entry key="CHINESE" value="392" />
+        <entry key="ENGLISH" value="393" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
