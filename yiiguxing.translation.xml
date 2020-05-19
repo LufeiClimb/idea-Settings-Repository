@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Http Host Connect Exception" />
       <item value="java.io.IOException: Error writing to server" />
       <item value="SUNBURST" />
       <item value="Rose" />
@@ -50,12 +51,11 @@
       <item value="User Interceptor" />
       <item value="judge Version" />
       <item value="Experience Time" />
-      <item value="组合" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="404" />
-        <entry key="ENGLISH" value="405" />
+        <entry key="CHINESE" value="405" />
+        <entry key="ENGLISH" value="406" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
