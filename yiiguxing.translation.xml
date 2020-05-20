@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Address" />
+      <item value="Inet" />
+      <item value="Inet Address" />
       <item value="Http Host Connect Exception" />
       <item value="java.io.IOException: Error writing to server" />
       <item value="SUNBURST" />
@@ -48,17 +51,15 @@
       <item value="analytics" />
       <item value="livepicker" />
       <item value="identify" />
-      <item value="User Interceptor" />
-      <item value="judge Version" />
-      <item value="Experience Time" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="405" />
-        <entry key="ENGLISH" value="406" />
+        <entry key="CHINESE" value="407" />
+        <entry key="ENGLISH" value="408" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
+        <entry key="GUJARATI" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="ROMANIAN" value="1" />
@@ -70,6 +71,7 @@
         <entry key="ITALIAN" value="1" />
         <entry key="SUNDANESE" value="1" />
         <entry key="JAVANESE" value="1" />
+        <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
   </component>
