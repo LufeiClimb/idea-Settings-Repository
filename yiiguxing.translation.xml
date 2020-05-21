@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="symbol Size" />
       <item value="目录" />
       <item value="文件夹" />
       <item value="garrison" />
@@ -50,12 +51,11 @@
       <item value="Diagroam" />
       <item value="origin" />
       <item value="upload Url" />
-      <item value="set Param Alias" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="379" />
-        <entry key="ENGLISH" value="379" />
+        <entry key="ENGLISH" value="380" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
