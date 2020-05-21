@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="It seems you're using 'idea.system.path' property to specify the location of the caches directory. In 2020.1, default locations of application directories were changed. For compatibility, the IDE picked the old location of logs, but to avoid any ambiguity in the future (and to get rid of this warning) please set 'idea.log.path' property, too." />
       <item value="目录" />
       <item value="文件夹" />
       <item value="garrison" />
@@ -50,7 +51,6 @@
       <item value="Diagroam" />
       <item value="origin" />
       <item value="upload Url" />
-      <item value="set Param Alias" />
     </histories>
     <option name="languageScores">
       <map>
