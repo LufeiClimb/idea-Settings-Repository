@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="目录" />
+      <item value="文件夹" />
       <item value="garrison" />
       <item value="Provide an ordering schema for operations" />
       <item value="kept for legacy support" />
@@ -49,13 +51,11 @@
       <item value="origin" />
       <item value="upload Url" />
       <item value="set Param Alias" />
-      <item value="color" />
-      <item value="delicious" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="376" />
-        <entry key="ENGLISH" value="377" />
+        <entry key="CHINESE" value="379" />
+        <entry key="ENGLISH" value="379" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
