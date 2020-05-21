@@ -7,6 +7,7 @@
       <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="keytab" type="PLAIN_TEXT" />
       <mapping ext="css" type="SCSS" />
+      <removed_mapping ext="css" approved="true" type="CSS" />
     </extensionMap>
   </component>
 </application>
