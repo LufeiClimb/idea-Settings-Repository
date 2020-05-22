@@ -1,7 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="symbol Size" />
+      <item value="incompatible" />
       <item value="目录" />
       <item value="文件夹" />
       <item value="garrison" />
@@ -74,17 +74,7 @@
     </option>
   </component>
   <component name="Settings">
-    <option name="baiduTranslateSettings">
-      <app-key>
-        <option name="primaryLanguage" value="CHINESE" />
-      </app-key>
-    </option>
     <option name="ignoreRegExp" value="" />
     <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
-    <option name="youdaoTranslateSettings">
-      <youdao-translate>
-        <option name="primaryLanguage" value="AUTO" />
-      </youdao-translate>
-    </option>
   </component>
 </application>
