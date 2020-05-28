@@ -25,14 +25,6 @@
           <Count>3</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Declaration">
-        <Item>
-          <IdeaActionID>GotoDeclaration</IdeaActionID>
-          <ShortCut>'Ctrl+B'</ShortCut>
-          <Description>Declaration</Description>
-          <Count>6</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Implementation(s)">
         <Item>
           <IdeaActionID>GotoImplementation</IdeaActionID>
@@ -95,6 +87,16 @@
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+    </option>
+    <option name="suppressed">
+      <Statistic Action="Declaration">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'Ctrl+B'</ShortCut>
+          <Description>Declaration</Description>
+          <Count>14</Count>
         </Item>
       </Statistic>
     </option>
