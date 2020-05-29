@@ -90,6 +90,18 @@
           <option name="url" value="https://github.com/LufeiClimb/NameYourBaby.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitLab.cdyoue.com.cn/Minard/Minard-engine.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://172.16.0.18/Minard/Minard-engine.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://172.16.0.18/Minard/Minard-config-server.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\code" />
