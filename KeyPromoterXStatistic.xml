@@ -49,14 +49,6 @@
           <Count>2</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Project">
-        <Item>
-          <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
-          <ShortCut>'Alt+1'</ShortCut>
-          <Description>Project</Description>
-          <Count>4</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Refresh">
         <Item>
           <IdeaActionID>Vcs.Log.Refresh</IdeaActionID>
@@ -94,7 +86,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'MinardApplication'">
@@ -143,6 +135,14 @@
         <Item>
           <IdeaActionID>ActivateKeyPromoterXToolWindow</IdeaActionID>
           <Description>Key Promoter X</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Project">
+        <Item>
+          <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
+          <ShortCut>'Alt+1'</ShortCut>
+          <Description>Project</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="编码规约扫描">
