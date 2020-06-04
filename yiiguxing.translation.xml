@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="logger" />
       <item value="特效" />
       <item value="Lombok Requires Annotation Processing: Do you want to enable annotation processors?" />
       <item value="Related Topics" />
@@ -50,7 +51,6 @@
       <item value="Concurrent Hash Map" />
       <item value="concurrent" />
       <item value="过期" />
-      <item value="sys dict type" />
     </histories>
     <option name="languageScores">
       <map>
