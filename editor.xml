@@ -17,6 +17,7 @@
     <option name="collapseOneLineFunctions" value="true" />
   </component>
   <component name="JavaCodeFoldingSettings">
+    <option name="collapseAnonymousClasses" value="true" />
     <option name="collapseInnerClasses" value="true" />
   </component>
   <component name="TodoConfiguration">
