@@ -75,6 +75,9 @@
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
+    <option name="keepFormat" value="true" />
+    <option name="showExplanation" value="true" />
+    <option name="showWordsOnStartup" value="true" />
     <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
   </component>
 </application>
