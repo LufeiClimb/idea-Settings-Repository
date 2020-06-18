@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reserved for international and undocumented" />
       <item value="NUMERIC" />
       <item value="THIN HORZ BANDS" />
       <item value="BIG SPOTS" />
@@ -50,12 +51,11 @@
       <item value="组合" />
       <item value="七月" />
       <item value="prefix" />
-      <item value="legend" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="402" />
-        <entry key="ENGLISH" value="403" />
+        <entry key="CHINESE" value="403" />
+        <entry key="ENGLISH" value="404" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="8" />
