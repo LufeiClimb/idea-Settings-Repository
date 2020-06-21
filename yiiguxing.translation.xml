@@ -1,6 +1,25 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="parameter controls the number of times the&#10;     * pattern is applied and therefore affects the length of the resulting&#10;     * array.  If the limit &lt;i&gt;n&lt;/i&gt; is greater than zero then the pattern&#10;     * will be applied at most &lt;i&gt;n&lt;/i&gt;&amp;nbsp;-&amp;nbsp;1 times, the array's&#10;     * length will be no greater than &lt;i&gt;n&lt;/i&gt;, and the array's last entry&#10;     * will contain all input beyond the last matched delimiter.  If &lt;i&gt;n&lt;/i&gt;&#10;     * is non-positive then the pattern will be applied as many times as&#10;     * possible and the array can have any length.  If &lt;i&gt;n&lt;/i&gt; is zero then&#10;     * the pattern will be applied as many times as possible, the array can&#10;     * have any length, and trailing empty strings will be discarded." />
+      <item value="parameter controls the number of times the" />
+      <item value="the result threshold, as described above" />
+      <item value="set Maximum Fraction Digits" />
+      <item value="set Minimum Fraction Digits" />
+      <item value="reserved for international and undocumented" />
+      <item value="NUMERIC" />
+      <item value="THIN HORZ BANDS" />
+      <item value="BIG SPOTS" />
+      <item value="THICK BACKWARD DIAG" />
+      <item value="SPARSE DOTS" />
+      <item value="ALT BARS" />
+      <item value="FINE DOTS" />
+      <item value="SOLID FOREGROUND" />
+      <item value="NO FILL" />
+      <item value="evaluate" />
+      <item value="Formula" />
+      <item value="catalog" />
+      <item value="* @param catalog a catalog name; must match the catalog name as it&#10;     *        is stored in the database" />
       <item value="file Suffix" />
       <item value="file Prefix" />
       <item value="logger" />
@@ -32,31 +51,13 @@
       <item value="livepicker" />
       <item value="identify" />
       <item value="User Interceptor" />
-      <item value="judge Version" />
-      <item value="Experience Time" />
-      <item value="组合" />
-      <item value="七月" />
-      <item value="prefix" />
-      <item value="legend" />
-      <item value="簇" />
-      <item value="Component" />
-      <item value="Repository" />
-      <item value="allocate" />
-      <item value="balance" />
-      <item value="diagram" />
-      <item value="figure" />
-      <item value="graph" />
-      <item value="chart" />
-      <item value="Diagram" />
-      <item value="daemon" />
-      <item value="If the computer running Redis is directly exposed to the&#10;internet, binding to all the interfaces is dangerous and will expose the&#10;instance to everybody on the internet. So by default we uncomment the&#10;following bind directive, that will force Redis to listen only into&#10;the IPv4 loopback interface address (this means Redis will be able to&#10;accept connections only from clients running into the same computer it&#10;is running). IF YOU ARE SURE YOU WANT YOUR INSTANCE TO LISTEN TO ALL THE INTERFACES&#10;JUST COMMENT THE FOLLOWING LINE." />
-      <item value="Concurrent Hash Map" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="388" />
-        <entry key="ENGLISH" value="389" />
+        <entry key="CHINESE" value="408" />
+        <entry key="ENGLISH" value="409" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
+        <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
@@ -75,6 +76,9 @@
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
+    <option name="keepFormat" value="true" />
+    <option name="showExplanation" value="true" />
+    <option name="showWordsOnStartup" value="true" />
     <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
   </component>
 </application>
