@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Diagram" />
       <item value="TOO LONG" />
       <item value="NO PERMISSION" />
       <item value="parameter controls the number of times the&#10;     * pattern is applied and therefore affects the length of the resulting&#10;     * array.  If the limit &lt;i&gt;n&lt;/i&gt; is greater than zero then the pattern&#10;     * will be applied at most &lt;i&gt;n&lt;/i&gt;&amp;nbsp;-&amp;nbsp;1 times, the array's&#10;     * length will be no greater than &lt;i&gt;n&lt;/i&gt;, and the array's last entry&#10;     * will contain all input beyond the last matched delimiter.  If &lt;i&gt;n&lt;/i&gt;&#10;     * is non-positive then the pattern will be applied as many times as&#10;     * possible and the array can have any length.  If &lt;i&gt;n&lt;/i&gt; is zero then&#10;     * the pattern will be applied as many times as possible, the array can&#10;     * have any length, and trailing empty strings will be discarded." />
@@ -50,12 +51,11 @@
       <item value="Algorithm" />
       <item value="audiomonitor" />
       <item value="analytics" />
-      <item value="livepicker" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="409" />
-        <entry key="ENGLISH" value="410" />
+        <entry key="CHINESE" value="410" />
+        <entry key="ENGLISH" value="411" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="8" />
