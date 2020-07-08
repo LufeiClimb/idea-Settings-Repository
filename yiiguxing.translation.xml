@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="parse Legend" />
       <item value="Diagram" />
       <item value="TOO LONG" />
       <item value="NO PERMISSION" />
@@ -50,12 +51,11 @@
       <item value="Conflict" />
       <item value="Algorithm" />
       <item value="audiomonitor" />
-      <item value="analytics" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="410" />
-        <entry key="ENGLISH" value="411" />
+        <entry key="CHINESE" value="411" />
+        <entry key="ENGLISH" value="412" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="8" />
