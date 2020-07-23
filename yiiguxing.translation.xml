@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The PostConstruct annotation is used on a method that needs to be executed&#10; * after dependency injection is done to perform any initialization. This&#10; * method MUST be invoked before the class is put into service. This&#10; * annotation MUST be supported on all classes that support dependency&#10; * injection. The method annotated with PostConstruct MUST be invoked even&#10; * if the class does not request any resources to be injected. Only one&#10; * method can be annotated with this annotation. The method on which the&#10; * PostConstruct annotation is applied MUST fulfill all of the following&#10; * criteria" />
       <item value="Diagroam" />
       <item value="parse Legend" />
       <item value="Diagram" />
@@ -50,12 +51,11 @@
       <item value="Extension" />
       <item value="suffix" />
       <item value="Conflict" />
-      <item value="Algorithm" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="412" />
-        <entry key="ENGLISH" value="413" />
+        <entry key="CHINESE" value="413" />
+        <entry key="ENGLISH" value="414" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="8" />
